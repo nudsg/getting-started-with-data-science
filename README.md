@@ -28,8 +28,8 @@ Introduction
 - Analytics is a description of a way of generating value from data
 
 ### Look at the question you are trying to answer
-1 - The objective you are trying to drive (ex. maximize profits)
-2 - The leaders (what are the things that I can actually change, that are going to impact the objective?)
+1. The objective you are trying to drive (ex. maximize profits)
+2. The leaders (what are the things that I can actually change, that are going to impact the objective?)
 
 - Data Science is about the people, not the tools
 
