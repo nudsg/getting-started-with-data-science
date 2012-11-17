@@ -33,4 +33,14 @@ Introduction
 
 - Data Science is about the people, not the tools
 
+Skills
 -----------
+
+- Finding rich data sources.
+- Working with large volumes of data despite hardware, software, and bandwidth constraints.
+- Cleaning the data and making sure that data is consistent.
+- Melding multiple datasets together.
+- Visualizing that data.
+- Building rich tooling that enables others to work with data effectively.
+
+(from https://www.kaggle.com/wiki/WhatIsDataScience - original source: http://radar.oreilly.com/2011/09/building-data-science-teams.html)
