@@ -44,3 +44,8 @@ Skills
 - Building rich tooling that enables others to work with data effectively.
 
 (from https://www.kaggle.com/wiki/WhatIsDataScience - original source: http://radar.oreilly.com/2011/09/building-data-science-teams.html)
+
+Tutorials
+---------
+
+[Kaggle's Tutorials](https://www.kaggle.com/wiki/Tutorials)
